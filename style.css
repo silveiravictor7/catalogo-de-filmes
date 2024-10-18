@@ -1,0 +1,17 @@
+body { 
+    background:black;
+    color: pink;
+}
+  
+header{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: solid 2px margin-left: 80; margin-right: 80;
+    margin-left: 80;
+    margin-right: 80;
+
+}
+ 
+section{
+    display: flex;
+}
