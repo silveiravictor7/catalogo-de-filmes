@@ -9,10 +9,9 @@ header{
     border-bottom: solid 2px pink;
     margin-left: 80;
      margin-right: 80;
-
-
 }
  
 section{
     display: flex;
+    background-color: black;
 }
